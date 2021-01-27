@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=Application
+Name=My_App
+Comment=
+
+Exec=lxterminal -e "python3 /home/pi/Desktop/Wildlife_Camera/Wildlife_Camera_Farm.py"
+StartUpNotify=true
+Terminal=true
+Hidden=false
